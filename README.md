@@ -1,2 +1,2 @@
-# protofoliosam
-Web Protofolio Samuel
+# portofoliosam
+Web Portofolio Samuel
